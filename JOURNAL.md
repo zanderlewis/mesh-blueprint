@@ -6,12 +6,19 @@
   ==================================================================
 -->
 
-## 11/6/2025 - The Beginning  
+## 11/6/2025 12 AM - The Beginning  
 
 Earlier today while I was at work, I thought of the perfect idea to make for Blueprint! Making an alternate internet has been one of my programming dreams, and I came up with the idea of making a local and completely offline internet.
 
 Thus begins `Mesh.
 
 ![Mesh Thumbnail](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODgxNCwicHVyIjoiYmxvYl9pZCJ9fQ==--995b2fc9aa99957ecb512ed87321611a5dfc4f4f/Mesh%20Thumbnail.png)
+  
+
+## 11/6/2025 2 PM - Did some research  
+
+I did some research on possible chips that can be used for Mesh. It seems that the Raspberry Pi Pico 2 is the best for Mesh, as it has wifi built in, along with Bluetooth, if I was ever to use it. More importantly, it is really cheap. each Pico is ~$5, making the possible price of each USB A/C chip <$15
+
+![screenshot-2025-11-06_14-10-10](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODk1MCwicHVyIjoiYmxvYl9pZCJ9fQ==--b01d3cfa5dd1f9b5bcfe661adca1087c5da682e0/screenshot-2025-11-06_14-10-10.png)
   
 
